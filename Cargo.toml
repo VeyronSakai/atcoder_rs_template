@@ -125,3 +125,7 @@ path = "src/bin/e.rs"
 [[bin]]
 name = "f"
 path = "src/bin/f.rs"
+
+
+[template]
+exclude = ["README.md]
