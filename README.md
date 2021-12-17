@@ -7,5 +7,5 @@ AtCoderのRustのプロジェクトのテンプレートです。
 cargo generateを使う場合は以下のコマンドを使えばAtcoderのプロジェクトを生成することができます。
 
 ```
-cargo generate --name <directory-name> --git https://github.com/VeyronSakai/atcoder_rs_template.git
+cargo generate --name <-name> --git https://github.com/VeyronSakai/atcoder_rs_template.git
 ```
