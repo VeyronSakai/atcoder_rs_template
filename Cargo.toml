@@ -128,4 +128,4 @@ path = "src/bin/f.rs"
 
 
 [template]
-exclude = ["README.md]
+exclude = ["README.md"]
