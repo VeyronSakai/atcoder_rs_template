@@ -1,5 +1,7 @@
 use proconio::input;
+use proconio::fastout;
 
+#[fastout]
 fn main() {
     input! {
         a: i32,
